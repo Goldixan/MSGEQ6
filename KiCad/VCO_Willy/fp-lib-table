@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Projektlabor")(type "KiCad")(uri "C:/Users/prolab/Downloads/Projektlabor.pretty")(options "")(descr ""))
+  (lib (name "ProLab")(type "KiCad")(uri "${KIPRJMOD}/ProLab.pretty")(options "")(descr ""))
 )
